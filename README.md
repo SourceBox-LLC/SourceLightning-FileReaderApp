@@ -1,18 +1,18 @@
-#This app combines Generative AI with common file readers to perform RAG with local files and folders
+# This app combines Generative AI with common file readers to perform RAG with local files and folders
 
-##Current Models
+## Current Models
 - OpenAI GPT-4o
 
-##Performs RAG with
+## Performs RAG with
 - Files
 - Folders
 
-##Requirements
+## Requirements
 - internet connection for AI model
 - File/Folder Paths to perorm RAG
 
 
-##Supported Files:
+## Supported Files:
 
 - Text files (.txt, .py, etc.) – handled by read_plain_text().
 - PDF files (.pdf) – handled by read_pdf() via PyPDF2.
