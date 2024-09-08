@@ -15,7 +15,7 @@
 ## Requirements
 
 - internet connection for AI model
-- File/Folder Paths to perorm RAG
+- File/Folder Paths to perform RAG
 
 
 
